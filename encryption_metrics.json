@@ -1,0 +1,13 @@
+{
+  "create_context": 0.2733,
+  "load_prepare_data": 0.0066,
+  "he_encrypt": 0.0041,
+  "kms_encrypt_dummy_HE_key": 0.5613,
+  "upload_s3_HE": 1.6535,
+  "upload_azure_HE": 0.9211,
+  "lambda_invoke": 2.3488,
+  "aes_encrypt": 0.0026,
+  "aes_decrypt": 0.0002,
+  "upload_s3_AES": 0.7177,
+  "kms_encrypt_key": 0.5599
+}
